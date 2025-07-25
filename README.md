@@ -12,7 +12,7 @@ HTML
 
 
 ## Purpose
-Practice using HTML tags and become familiar with their purposes and usage.
+Practice using HTML tags andbecome familiar with their purposes and usage.
 
 
 ## How to use
@@ -20,7 +20,7 @@ Download or clone the repository.
 
 
 ## Links
-- Solution URL : (https://github.com/lawstack/Basic-HTML-Website.git)
+- Solution URL : (https://github.com/lawstack/Basic-HTML-Website)
 
 ## ✍️ Author
  Mark Lawrence Vitto
