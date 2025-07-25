@@ -1,0 +1,25 @@
+# Roadmap.sh - Basic HTML Website Solution
+This is a solution to the [Basic Html website challenge](https://roadmap.sh/projects/basic-html-website). 
+
+## Overview
+This project is designed to help beginners practice writing HTML.
+
+## What I learn
+Applying semantic HTML elements for clearer structure and better accessibility.
+
+## Built with
+- HTML5
+- Visual Studio Code
+
+
+## Purpose
+- Practice using HTML tags and become familiar with their purposes and usage.
+
+
+## How to use
+- Download or clone the repository. [Solution] (https://github.com/lawstack/Basic-HTML-Website.git)
+
+
+## ✍️ Author
+Mark Lawrence Vitto
+- Github - [@lawstack] (https://github.com/lawstack)
