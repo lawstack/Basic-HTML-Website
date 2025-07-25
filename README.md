@@ -20,7 +20,7 @@ Download or clone the repository.
 
 
 ## Links
-- Solution URL : (https://github.com/lawstack/Basic-HTML-Website.git)
+- Solution URL : (https://github.com/lawstack/Basic-HTML-Website)
 
 ## ✍️ Author
  Mark Lawrence Vitto
