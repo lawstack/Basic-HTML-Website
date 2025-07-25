@@ -1,5 +1,5 @@
 # Roadmap.sh - Basic HTML Website Solution
-This is a solution to the [Basic Html website challenge](https://roadmap.sh/projects/basic-html-website). 
+This is a solution to the [Basic HTML website challenge](https://roadmap.sh/projects/basic-html-website). 
 
 ## Overview
 This project is designed to help beginners practice writing HTML.
